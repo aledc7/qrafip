@@ -2,15 +2,7 @@
 
 ![aledc.tk](https://github.com/aledc7/qrafip/blob/main/recursos/qrafip.png?raw=true "aledc.tk")
 
-
-
-
-
-## Ejemplo en PHP para Generar el Código QR que solicita Afip en el 2021
-
-
-
-Saludos colegas.   
+## Generación del Código QR para AFIP Argentina  
 
 
 [![aledc.com](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/aledc.com.svg)](https://aledc.tk)
@@ -19,6 +11,20 @@ Saludos colegas.
 [![Dependencies](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/dependencias-none.svg)](https://aledc.tk)
 
 
+
+
+
+La Administración Federal de Ingresos Públicos dispuso la implementación obligatoria de un código de respuesta rápida “QR” en los comprobantes electrónicos. El código “QR” podrá ser escaneado por una cámara estándar de un dispositivo celular, tablet o similar con acceso a internet y brindará información sobre el comprobante y el emisor del mismo.
+
+Esta medida alcanza a todos los contribuyentes y/o responsables cuya autorización de emisión de comprobantes electrónicos, se haya tramitado en los términos del “Régimen de Emisión de Comprobantes Electrónicos” establecido por la Resolución General N° 4.291.
+
+
+
+
+## Ejemplo funcionando en PHP para integrar a sus Sistemas.   
+
+
+_________________________________________________________________    
 
 
 __Requisitos:__
