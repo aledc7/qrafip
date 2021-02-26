@@ -23,6 +23,8 @@ Esta medida alcanza a todos los contribuyentes y/o responsables cuya autorizaci�
 
 ## Ejemplo funcionando en PHP para integrar a sus Sistemas.   
 
+El siguiente código de PHP usa la librería [https://github.com/endroid/qr-code](https://github.com/endroid/qr-code) la cual se puede descargar con Composer.   
+
 
 _________________________________________________________________    
 
