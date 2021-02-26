@@ -33,7 +33,7 @@ __Instrucciones:__
 ```php
 composer require endroid/qr-code
 ```
-3 crear un archivo index.php y pegar el siguiente código:
+3. -  Crear un archivo index.php y pegar el siguiente código:
 ```php
 <?php
 
