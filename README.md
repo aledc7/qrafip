@@ -1,5 +1,11 @@
 # QR AFIP
 
+![aledc.tk](https://github.com/aledc7/qrafip/blob/main/recursos/qrafip.png?raw=true "aledc.tk")
+
+
+
+
+
 ## Ejemplo en PHP para Generar el Código QR que solicita Afip en el 2021
 
 
