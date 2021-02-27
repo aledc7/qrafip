@@ -27,13 +27,14 @@ El siguiente código de PHP usa la librería [https://github.com/endroid/qr-code
 
 
 _________________________________________________________________    
+## Instalacion
+
+Existen dos maneras de instalar, la primera es utilizando __Composer__ y la segunda es descargando la carpeta con el mini proyecto funcionando.   
 
 
-__Requisitos:__
 
-- [x] Composer
 
-__Instrucciones:__
+__Instalar con Composer:__
 
 1. - Crear una nueva carpeta y con tu editor de código favorito
 
@@ -94,6 +95,14 @@ die();
 ?>
 
 ```
+
+___________________________________________
+
+__Instalar sin hacer uso de Composer:__
+
+Sencillamente descargar el [qrafip]() , descomprimir el zip, y poner esa carpeta en un server apache y ya estará funcionando.   
+
+
 
 
 
