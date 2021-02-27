@@ -31,7 +31,7 @@ _________________________________________________________________
 
 Existen dos maneras de instalar, la primera es descargando la carpeta con el mini proyecto funcionando. 
 
-Sencillamente descargar el [qrafip](https://github.com/aledc7/qrafip/raw/main/recursos/qrafip.zip) , descomprimir el zip, y poner esa carpeta en un server Apache y ya estará funcionando.   
+Sencillamente descargar el [Proyecto](https://github.com/aledc7/qrafip/raw/main/recursos/qrafip.zip) , descomprimir el zip, y poner esa carpeta en un server Apache y ya estará funcionando, solo restara reemplazar los datos de ejemplo con las variables de tu sistema para que se genere dinamicamente el QR.
 
 
 _________________________________________________________________
