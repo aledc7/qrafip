@@ -1,6 +1,8 @@
 # QR AFIP
 
 ![aledc.tk](https://github.com/aledc7/qrafip/blob/main/recursos/qrafip.png?raw=true "aledc.tk")
+![aledc.tk](https://github.com/aledc7/qrafip/blob/main/recursos/afip1.jpg?raw=true "aledc.tk")
+
 
 ## Generación del Código QR para AFIP Argentina  
 
