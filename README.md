@@ -38,7 +38,7 @@ __Instalar con Composer:__
 
 1. - Crear una nueva carpeta y con tu editor de código favorito
 
-2. - Dentro de la Carpeta recién creada correr este comando
+2. - Dentro de la Carpeta recién creada ejecutar composer en la terminal, para descargar las dependencias:   
 ```php
 composer require endroid/qr-code
 ```
@@ -97,6 +97,9 @@ die();
 ```
 
 ___________________________________________
+
+
+
 
 __Instalar sin hacer uso de Composer:__
 
