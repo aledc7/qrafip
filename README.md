@@ -105,7 +105,7 @@ ___________________________________________
 
 
 
-
+Eso sería todo, de esta manera podras integrar la generación de este código QR a tu Sistema de Facturación
 
 
 
