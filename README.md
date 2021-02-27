@@ -100,7 +100,7 @@ ___________________________________________
 
 __Instalar sin hacer uso de Composer:__
 
-Sencillamente descargar el [qrafip]() , descomprimir el zip, y poner esa carpeta en un server apache y ya estará funcionando.   
+Sencillamente descargar el [qrafip](https://github.com/aledc7/qrafip/raw/main/recursos/qrafip.zip) , descomprimir el zip, y poner esa carpeta en un server apache y ya estará funcionando.   
 
 
 
